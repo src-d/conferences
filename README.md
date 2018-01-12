@@ -1,7 +1,7 @@
 # Tracking Call for Papers
 
 If you see a conference that seems interesting and has a Call for Papers please send an issue.
-The issues should follow the following [template](.github/ISSUE_TEMPLATE):
+The issues should follow the following [template](.github/ISSUE_TEMPLATE.md):
 
 The issue will go through these states:
 
@@ -15,6 +15,7 @@ The issue will go through these states:
 While an issue is on `phase:open` or `phase:closing soon` anyone can send a pull request adding
 a new proposal. These PRs should refer to the corresponding CfP issue.
 
-Proposals are simply a markdown file in a directory named `[year]-[conference-name]` in the root
-of the repository. The file should be named as something related to the proposed talk and follow
-[this template](.github/PULL_REQUEST_TEMPLATE).
+Proposals are simply a PR adding a markdown file in a directory named
+`[year]-[conference-name]` in the root of the repository.
+The file should be named as something related to the proposed talk and follow
+[this template](.github/PULL_REQUEST_TEMPLATE.md).
