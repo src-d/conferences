@@ -1,4 +1,4 @@
-# Name of the conference + year
+# (Issue title) YYYY/MM - Name of the conference
 
 **URL**: homepage of the conference
 
@@ -12,8 +12,8 @@
 
 **Call for Papers**:
 
-- deadline: what day does the CfP closes
-- link:     link for speakers to submit their proposals
+deadline: what day does the CfP closes (YYYY/MM/DD)
+link:     link for speakers to submit their proposals
 
 **Notes**:
 
