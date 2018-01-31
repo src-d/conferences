@@ -5,17 +5,27 @@ The issues should follow the following [template](.github/ISSUE_TEMPLATE.md):
 
 The issue will go through these states:
 
-- `phase:validation` awaiting for @campoy to decide whether we should apply or not
+- `no label` awaiting for @campoy to decide whether we should apply or not
 - `phase:open` once the conference has been validated and the CfP is open
-- `phase:closing soon` one month before the conference closes (this might be automated later on)
-- `phase:waiting` once we've submited papers and we're awaiting the results
+- `phase:waiting` once the CfP is closed but we're still waiting for the results
 - `phase:accepted` if at least one of the proposals was accepted
 - `phase:rejected` if all proposals were rejected
 
-While an issue is on `phase:open` or `phase:closing soon` anyone can send a pull request adding
+While an issue is on `phase:open` anyone can send a pull request adding
 a new proposal. These PRs should refer to the corresponding CfP issue.
 
 Proposals are simply a PR adding a markdown file in a directory named
 `[year]-[conference-name]` in the root of the repository.
 The file should be named as something related to the proposed talk and follow
 [this template](.github/PULL_REQUEST_TEMPLATE.md).
+
+# Deadline management
+
+In addition to the `phase:X` labels this repository also uses
+[github-reminder](https://github.com/src-d/github-reminder) to automate deadline
+management.
+
+This bot will update issues and PRs containing a line of the form `deadline: date`
+and apply one of the `deadline < X` labels.
+
+For consistency, please use the format `YYYY/MM/DD` for any deadlines.
