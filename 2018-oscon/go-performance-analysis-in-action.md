@@ -4,7 +4,7 @@
 
 **Sent on**:  2018/01/30
 
-**Status**:   proposed
+**Status**:   accepted
 
 **Author**:   Francesc Campoy
 
