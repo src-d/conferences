@@ -6,7 +6,7 @@
 
 **Author**:  Rafael Porres Molina
 
-**Slides**:  TBA
+**Slides**:  http://bit.ly/2nCCgoa
 
 **Proposal**: http://cfgmgmtcamp.eu/schedule/terraform/CoreOS.html
 
