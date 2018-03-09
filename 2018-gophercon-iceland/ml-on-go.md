@@ -11,13 +11,13 @@
 
 We've all wondered how to use Machine Learning with Go, but what about turning the tables for once? What can Machine Learning do *for* Go?
 
-In this talk we will discover how different Machine Learning models can help us write better go by predicting from our next character to our next bug!
+In this talk we will discover how different Machine Learning models can help us write better Go by predicting from our next character to our next bug!
 
 **Description**:
 
 Machine Learning is definitely what the cool kids are doing nowadays. Many wonder how to implement simple Machine Learning models, such as [image recognition](https://outcrawl.com/image-recognition-api-go-tensorflow/), and many frameworks are popping out such as [Tensorflow for Go](https://godoc.org/github.com/tensorflow/tensorflow/tensorflow/go), [GoLearn](https://github.com/sjwhitworth/golearn), or [Gorgonia](https://github.com/gorgonia/gorgonia).
 
-What not many are talking about is how to those techniques to improve our developer routines. Machine Learning on Source Code (MLonCode) is a very interesting field because it is at the frontier of [Natural Language Processing](https://en.wikipedia.org/wiki/Natural-language_processing), [Graph-Based Machine Learning](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html), Static Analysis, and has the power to even bring other fields like Dynamic Analysis of programs.
+What not many are talking about is how to those techniques to improve our developer routines. Machine Learning on Source Code (MLonCode) is a very interesting field because it is at the frontier of [Natural Language Processing](https://en.wikipedia.org/wiki/Natural-language_processing), [Graph-Based Machine Learning](https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html), Static Analysis, and has the potential to impact other fields like Dynamic Analysis of programs.
 
 The amount of data available for this problem is almost overwhelming, and given that data is the fuel of Machine Learning, we are excited for an amazing ride!
 
