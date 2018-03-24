@@ -4,7 +4,7 @@
 
 **Sent on:** 2018/02/16
 
-**Status:** proposed
+**Status:** rejected
 
 **Author:** Vadim
 
