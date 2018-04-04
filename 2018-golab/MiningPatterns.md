@@ -1,4 +1,4 @@
-# Mining GoLang patterns
+# Mining Go patterns
 
 **Updates:** https://github.com/src-d/conferences/issues/33
 
