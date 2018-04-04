@@ -17,6 +17,7 @@ I will summarize the current research subdomains in MLonCode, such as *identifie
 
 #### About speaker
 
+```
 Lead Engineer, Machine Learning team at https://sourced.tech
 Google Developer Expert in Machine Learning
 Blog: blog.sourced.tech (no ability to filter by author, sorry)
@@ -27,3 +28,4 @@ GitHub: vmarkovtsev
 LinkedIn: https://www.linkedin.com/in/vmarkovtsev
 One of my papers was accepted to http://www.msrconf.org/
 My previous talks: vmarkovtsev.github.io
+```
