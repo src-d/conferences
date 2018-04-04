@@ -6,9 +6,9 @@
 
 **Author**:  Javi Fontán
 
-**Slides**:  TBA
+**Slides**:  https://docs.google.com/presentation/d/1eQ2D3YOhKtrNjZYfS6AIVhMz09GWvdGhINLA9aK8dyQ/edit?usp=sharing
 
-**Proposal**: TBA
+**Proposal**: https://www.meetup.com/Golang-Barcelona/events/248194426/
 
 **Abstract**:
 
