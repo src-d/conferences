@@ -29,3 +29,9 @@ This bot will update issues and PRs containing a line of the form `deadline: dat
 and apply one of the `deadline < X` labels.
 
 For consistency, please use the format `YYYY/MM/DD` for any deadlines.
+
+## Older events
+
+Previously, we used to track the events we attended on
+[this wiki](https://github.com/src-d/guide/blob/master/developer-community/events-list.md),
+which has been kept only for archival purposes.
