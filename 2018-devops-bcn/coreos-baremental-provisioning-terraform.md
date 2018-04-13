@@ -4,11 +4,11 @@
 
 **Sent on**: 2018/01/31
 
-**Status**:  proposed
+**Status**:  accepted
 
 **Author**:  Rafael Porres Molina
 
-**Slides**:  TBA
+**Slides**:  http://bit.ly/2nCCgoa
 
 **Proposal**: -
 
