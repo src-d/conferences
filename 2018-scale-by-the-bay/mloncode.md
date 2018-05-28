@@ -1,4 +1,4 @@
-# Title not decided yet
+# Machine Learning on Source Code
 
 **Updates**: https://github.com/src-d/conferences/issues/68
 
