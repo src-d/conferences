@@ -14,7 +14,7 @@
 
 Machine Learning is definitely what the cool kids are doing nowadays. Deep Learning specifically powered a revolution on many fields of research, including Computer Vision and Natural Language Processing, but also self driving cars, or strategy games like Go.
 
-What not many are talking about is how to those techniques to improve our developer routines. Machine Learning on Source Code (MLonCode) is a very interesting field because it is at the frontier of Natural Language Processing, Graph-Based Machine Learning, Static Analysis, and has the ability to impact and benefit from other fields like Dynamic Analysis of programs.
+What not many are talking about is how to use those techniques to improve our developer routines. Machine Learning on Source Code (MLonCode) is a very interesting field because it is at the frontier of Natural Language Processing, Graph-Based Machine Learning, Static Analysis, and has the ability to impact and benefit from other fields like Dynamic Analysis of programs.
 
 The amount of data available for this problem is almost overwhelming, and given that data is the fuel of Machine Learning, we are excited for an amazing ride!
 
@@ -30,3 +30,4 @@ While the topic is advanced, the level of mathematics required for this talk wil
 **Notes**:
 
 N/A
+
