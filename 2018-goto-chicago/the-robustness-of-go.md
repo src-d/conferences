@@ -8,7 +8,9 @@
 
 **Author**:  Francesc Campoy
 
-**Slides**:  N/A
+**Slides**:  https://speakerdeck.com/campoy/the-robustness-of-go
+
+**Recording**:  TBA
 
 **Proposal**: N/A
 
