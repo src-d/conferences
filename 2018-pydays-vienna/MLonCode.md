@@ -8,6 +8,10 @@
 
 **Author:** Vadim
 
+**Slides:** https://warenlg.github.io/pydays-vienna-2018/
+
+**Recordings:** N/A
+
 **Abstract:**
 
 Machine Learning on Source Code (MLonCode) is an emerging and exciting domain of research which stands at the sweet spot between deep learning, natural language processing, social science and programming. The list of MLonCode resources - [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - has already attracted more than 1,600 watchers on GitHub.
