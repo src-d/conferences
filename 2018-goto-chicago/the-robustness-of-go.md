@@ -10,7 +10,7 @@
 
 **Slides**:  https://speakerdeck.com/campoy/the-robustness-of-go
 
-**Recording**: TBA
+**Recording**: https://www.youtube.com/watch?v=40d26ZGfhR8
 
 **Proposal**: N/A
 
