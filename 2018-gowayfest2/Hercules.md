@@ -10,6 +10,8 @@
 
 **Abstract:**
 
+**Slides:** http://vmarkovtsev.github.io/gowayfest-2018-minsk/
+
 Hercules is awesome. [Read the blog post to learn why.](https://blog-staging.srcd.run/post/hercules.v4/)
 
 **Notes:**
