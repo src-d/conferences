@@ -10,6 +10,15 @@
 
 **Slides**: https://docs.google.com/presentation/d/e/2PACX-1vTHyBDUcr3Qdk39dzA7G5q7454hOFFLQFMx8lOIRr-f5dULyvv7riSfApgrIxlw-UzIWlFXmEMS6j8D/pub?start=false&loop=false&delayms=3000
 
+**Recording**: https://www.youtube.com/watch?v=2V9Wmv9lI0c
+
+<div style="text-align:center">
+    <a href="https://www.youtube.com/watch?v=2V9Wmv9lI0c">
+        <img src="https://img.youtube.com/vi/2V9Wmv9lI0c/0.jpg" alt="Machine Learning on Source Code">
+        <p>Machine Learning on Source Code</p>
+    </a>
+</div>
+
 **Abstract**:
 
 Machine Learning is definitely what the cool kids are doing nowadays. Deep Learning specifically powered a revolution on many fields of research, including Computer Vision and Natural Language Processing, but also self driving cars, or strategy games like Go.
