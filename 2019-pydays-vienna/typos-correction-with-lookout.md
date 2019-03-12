@@ -16,15 +16,15 @@ Institute of Physics and Technology and is studying at Yandex School of Data Ana
 
 **Abstract**:
 
-Typos correction takes up a big part of code review process, which can and should be automated. We present Typos
-Corrector - a tool for automatic correction of typos in code identifiers from pool requests. It is powered by AI and
-source{d} Lookout - open source service for assisted code review,
-that allows creating and running custom source code analyzers.
-Typos Corrector encompasses the knowledge obtained from 60 million identifiers present in open source code. It adjusts
-to the repository to take local conventions into account during checking. Typos Corrector achieves 93%
-accuracy of corrections and has no analogues.
-The talk will focus on the Typos Corrector architecture, details of its pure Python implementation and
-problems which arise during applying ML in production of open source tools, which address real-world problems.
+Typos correction substitutes a big part of the code review process, and it can and should be
+automated. I present Typos Corrector - a tool for automatic correction of typos in source code 
+identifiers in pull requests. It is powered by AI and source{d} Lookout - open source framework 
+for assisted code review, that allows creating and running personal source code analyzers.
+Typos Corrector encompasses the knowledge obtained from 60 million identifiers present in the 
+world's open source code. It adjusts to each repository to leverage the local naming conventions. 
+Typos Corrector achieves 93% accuracy of corrections on our dataset.
+The talk will focus on the Typos Corrector's architecture, details of its pure Python
+implementation and problems which I hit with applying ML to the real-world problems.
 
 **Notes**:
 
