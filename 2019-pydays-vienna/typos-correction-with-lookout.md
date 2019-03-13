@@ -1,10 +1,10 @@
-# Title of the Talk
+# Typos Correction in Code Identifiers
 
 **Updates**:  https://github.com/src-d/conferences/issues/133
 
-**Sent on**:  -
+**Sent on**:  2019-03-13
 
-**Status**:   on preparation
+**Status**:   submitted
 
 **Author**:   Irina
 
